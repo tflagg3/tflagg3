@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm an undergraduate student studying Computer Science and Mathematics at Colorado College. I use he/him pronouns and my favorite subject is database management, though I'm interested in learning more about Graphics, Machine Learning, Cyber Security, and Web Developement. I love learning, and I can do it pretty quickly. 
+
+I'm interested in collaborating on anything! I'd love to work on a project where I can learn: whether I learn more about things I understand acutely or know nothing about. I'd love to learn it all. If you have a project, I am interested so send me a DM!
+
 <!--
 **tflagg3/tflagg3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

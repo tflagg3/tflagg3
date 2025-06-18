@@ -28,7 +28,7 @@ An iOS-based **social media platform** focused on personalization and real conne
 
 ## 🎯 Looking Ahead
 
-I'm actively pursuing a career in **data science**, where I can blend analytical thinking with creative problem-solving to make data meaningful.
+With a liberal arts foundation from Colorado College, I've developed a strong ability to think critically across disciplines and communicate complex ideas clearly. I'm excited to pursue a career in data science, where I can combine my analytical mindset, mathematical training, and creative problem-solving to extract meaningful insights and build impactful solutions.
 
 ---
 

@@ -1,4 +1,9 @@
-### Hi there 👋
+### I'm Tanner
+A recent Graduate from Colorado College with a double major in Mathematics and Computer Science. In academia, I studied database management, programming language implementation, networking, and natural language processing. I spent a summer as a research assistant, training natural language models in entity recognition and relation extraction on randomized clinical trials. 
+
+Currently working on a iOS social media platform called Personally, release to the app store coming soon. Please reach out with ANY questions about this project!
+
+Looking ahead, I'm going to pursue a career in data science. 
 
 
 <!--

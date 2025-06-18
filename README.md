@@ -19,7 +19,7 @@ In academia, I explored:
 
 ## 🚧 Currently Building: [Personally](#)
 
-An iOS-based **social media platform** focused on personalization and real connection.  
+An iOS-based **social media platform** focused on privacy and physical social networking.  
 📲 **App Store release coming soon!**  
 
 💬 I'm happy to chat about the project — feel free to [reach out](mailto:tanner@hardstop.xyz)!

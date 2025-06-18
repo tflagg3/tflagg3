@@ -1,22 +1,38 @@
-### I'm Tanner
-A recent Graduate from Colorado College with a double major in Mathematics and Computer Science. In academia, I studied database management, programming language implementation, networking, and natural language processing. I spent a summer as a research assistant, training natural language models in entity recognition and relation extraction on randomized clinical trials. 
+# 👋 Hi, I'm Tanner
 
-Currently working on a iOS social media platform called Personally, release to the app store coming soon. Please reach out with ANY questions about this project!
+🎓 I'm a recent graduate of **Colorado College**, where I double-majored in **Mathematics** and **Computer Science**.
 
-Looking ahead, I'm going to pursue a career in data science. 
+In academia, I explored:
+- 📊 Database Management  
+- 🧠 Programming Language Implementation  
+- 🌐 Networking  
+- 🧬 Natural Language Processing (NLP)  
+- 📈 Graph Theory  
+- 🧮 Differential Equations  
+- 🔢 Numerical Analysis  
+- 🎲 Probability  
+- 📐 Real Analysis
 
+🔬 I spent a summer as a **research assistant**, training NLP models for **entity recognition** and **relation extraction** on randomized clinical trials.
 
-<!--
-**tflagg3/tflagg3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚧 Currently Building: [Personally](#)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+An iOS-based **social media platform** focused on personalization and real connection.  
+📲 **App Store release coming soon!**  
+
+💬 I'm happy to chat about the project — feel free to [reach out](mailto:tanner@hardstop.xyz)!
+
+---
+
+## 🎯 Looking Ahead
+
+I'm actively pursuing a career in **data science**, where I can blend analytical thinking with creative problem-solving to make data meaningful.
+
+---
+
+## 📫 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/tanner-flagg-121521209/)
+- [Email](mailto:tanner@hardstop.xyz)

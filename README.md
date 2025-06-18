@@ -5,7 +5,7 @@
 In academia, I explored:
 - 📊 Database Management  
 - 🧠 Programming Language Implementation  
-- 🌐 Networking  
+- 🌐 Computer Networking  
 - 🧬 Natural Language Processing (NLP)  
 - 📈 Graph Theory  
 - 🧮 Differential Equations  
